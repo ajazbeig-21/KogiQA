@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+
+:root {
+  --bg-gradient-start: #3b82f6;
+  --bg-gradient-end: #9333ea;
+  --bg-primary: #ffffff;
+  --bg-secondary: #f3f4f6;
+  --text-primary: #1f2937;
+  --text-secondary: #6b7280;
+  --border-color: #d1d5db;
+  --input-bg: #ffffff;
+  --input-text: #1f2937;
+  --input-border: #d1d5db;
+  --input-placeholder: #9ca3af;
+}
+
+:root.dark {
+  --bg-gradient-start: #111827;
+  --bg-gradient-end: #1f2937;
+  --bg-primary: #1f2937;
+  --bg-secondary: #111827;
+  --text-primary: #f3f4f6;
+  --text-secondary: #d1d5db;
+  --border-color: #4b5563;
+  --input-bg: #374151;
+  --input-text: #f3f4f6;
+  --input-border: #4b5563;
+  --input-placeholder: #9ca3af;
+}
+
+* {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
