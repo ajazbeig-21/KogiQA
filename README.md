@@ -4,6 +4,8 @@ A modern UI automation framework that enables end-to-end testing without CSS sel
 
 ## Overview
 
+![KogiQA](./assets/kogiqa.svg)
+
 KogiQA is a powerful UI automation tool designed to simplify test automation by eliminating the need for traditional CSS selectors. This approach makes tests more maintainable, resilient to UI changes, and easier to write.
 
 ## Key Features
