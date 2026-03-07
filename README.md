@@ -1,5 +1,8 @@
 # KogiQA Angular Demo – Record → Export → Run UI Tests
 
+![KogiQA Banner](assets/kogiqa.svg)
+
+
 ## What is KogiQA?
 
 **KogiQA** is a modern UI automation framework that enables **end-to-end testing without CSS selectors or XPath**. It uses advanced AI and visual recognition to identify UI elements based on their appearance and context, making test automation more maintainable, resilient to UI changes, and significantly easier to write.
@@ -162,6 +165,9 @@ Open the application in your browser:
 ```
 http://localhost:4200
 ```
+
+![KogiQA Angular Test App](assets/kogi-test-app.png)
+
 
 This simple login UI is used to demonstrate KogiQA testing. It includes:
 - ✨ **Dark/Light Theme Toggle** – Test theme switching
